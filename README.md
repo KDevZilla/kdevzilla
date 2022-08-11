@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My other projects are displayed at [github page](https://kdevzilla.github.io/)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kdevzilla)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdevzilla)](https://github.com/anuraghazra/github-readme-stats)
