@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can see my projects at [github page](https://kdevzilla.github.io/)
+You can see a list my projects on [github page](https://kdevzilla.github.io/)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kdevzilla)](https://github.com/anuraghazra/github-readme-stats)
 
