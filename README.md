@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+I am a C# developer who is interested in using classical AI to solve problems and I also make puzzle games in my free time.
+
 You can see a list my projects on [github page](https://kdevzilla.github.io/)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kdevzilla)](https://github.com/anuraghazra/github-readme-stats)
