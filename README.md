@@ -3,12 +3,12 @@
 
 I am a C# developer who is interested in developing puzzle games in my free time.
 
-You can see a list my projects on [github page](https://kdevzilla.github.io/)
+You can see a list of my projects on [github page](https://kdevzilla.github.io/)
 
-Some of the articles I published on codeproject.
-
-https://www.codeproject.com/Articles/5347429/Sharpword-A-Wordle-Clone-Using-Csharp
-https://www.codeproject.com/Articles/5348843/KReversi-Learn-to-Implement-Minimax-Algorithm-by-C
+Some of the articles I published on codeproject.  
+https://www.codeproject.com/Articles/5375122/SharpMoku-a-Gomoku-Five-in-a-row-written-in-Csharp  
+https://www.codeproject.com/Articles/5347429/Sharpword-A-Wordle-Clone-Using-Csharp  
+https://www.codeproject.com/Articles/5348843/KReversi-Learn-to-Implement-Minimax-Algorithm-by-C  
 
 
 
