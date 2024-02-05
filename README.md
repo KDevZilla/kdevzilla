@@ -9,6 +9,8 @@ Some of the articles I published on codeproject.
 [Gomoku/Five in a Row in C#](https://www.codeproject.com/Articles/5375122/SharpMoku-a-Gomoku-Five-in-a-row-written-in-Csharp)  
 [Wordle clone in C#](https://www.codeproject.com/Articles/5347429/Sharpword-A-Wordle-Clone-Using-Csharp)  
 [Reversi/Othello game in C#](https://www.codeproject.com/Articles/5348843/KReversi-Learn-to-Implement-Minimax-Algorithm-by-C)  
+[Kaldoku game in C#](https://www.codeproject.com/Articles/5375124/Kaldoku-game)  
+
 
 Some of the articles on dev.to.  
 [Mineswepper in C#](https://dev.to/kdevzilla/minesweeper-c-1h82)  
